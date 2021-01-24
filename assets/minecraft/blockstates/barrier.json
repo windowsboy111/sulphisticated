@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/barrier"
+      },
+      {
+        "model": "minecraft:block/barrier"
+      },
+      {
+        "model": "minecraft:block/barrier",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/barrier",
+        "y": 180
+      }
+    ]
+  }
+}
